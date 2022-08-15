@@ -36,6 +36,13 @@
 
 <br />
 
+## 📜 Credits
+
+- Owner/Founder: `xsun#4919`
+- Lead Developer: `Ducky#3566`
+- Developer: `SickCloud#0991`
+
+
 
 ![Ducky's Stats](https://github-readme-stats.vercel.app/api?username=bruvzz&show_icons=true&hide_border=true)
 
