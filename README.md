@@ -28,14 +28,12 @@
 
 <h1 align="center">
 ✨ | Supported Games | ✨
- 
+</h1>
+<br />
  - Criminality (Cracked Script, not apart of hub)
  - Da Hood
  - Ninja Legends
  - Prison Life
- 
-</h1>
-<br />
 
 
 ![Ducky's Stats](https://github-readme-stats.vercel.app/api?username=bruvzz&show_icons=true&hide_border=true)
