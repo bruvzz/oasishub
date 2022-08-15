@@ -47,4 +47,6 @@
 
 ![Ducky's Stats](https://github-readme-stats.vercel.app/api?username=bruvzz&show_icons=true&hide_border=true)
 
+*I know this isn't the best developed script-hub, but this was my first ever script-hub that I developed mainly on my own.*
+
 By [Ducky](https://github.com/bruvzz)
