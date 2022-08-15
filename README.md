@@ -49,4 +49,4 @@
 
 *I know this isn't the best developed script-hub, but this was my first ever script-hub that I developed mainly on my own.*
 
-By [Ducky](https://github.com/bruvzz)
+README.md made by: [Ducky](https://github.com/bruvzz)
