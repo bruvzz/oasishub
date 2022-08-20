@@ -1,6 +1,6 @@
 # Oasis Hub
 
-*Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games.*
+*Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games. We plan on making this script-hub bigger in game support in the near future, but Ducky has currently taken a break from making any further changes into this script.*
 
 # Game Support
 
