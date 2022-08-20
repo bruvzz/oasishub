@@ -51,5 +51,4 @@
 
 *I know this isn't the best developed script-hub, but this was my first ever script-hub that I developed mainly on my own.*
 
-- README.md Idea, Inspiration, and Credits to: [Airwav](https://github.com/Airwav)
-- README.md Made By: [Ducky](https://github.com/bruvzz)
+- README.md made by: [Airwav](https://github.com/Airwav)
