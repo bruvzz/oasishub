@@ -4,10 +4,8 @@
 
 # Game Support
 
-- Arsenal (Coming Soon)
 - Criminality (Cracked Script, not apart of hub)
 - Da Hood
-- Jailbreak (Coming Soon)
 - Ninja Legends
 - Prison Life
 
