@@ -21,4 +21,4 @@ Need assistance, or want the script-hub directly? Our [support server](https://d
 
 *"I know this isn't the best developed script-hub, but this was my first ever script-hub that I developed mainly on my own."* 
 
-- Made with ❤️ by `Ducky#3566`
+> Made with ❤️ by `Ducky#3566`
