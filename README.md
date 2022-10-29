@@ -1,6 +1,6 @@
 # Oasis Hub
 
-> *Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games. We plan on making this script-hub bigger in game support in the near future, so join our community server below!.*
+> *Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games. We plan on making this script-hub bigger in game support in the near future, so join our community server below!*
 
 # Game Support
 
