@@ -1,6 +1,6 @@
 # Oasis Hub
 
-> *Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games. We plan on making this script-hub bigger in game support in the near future, but Ducky has currently taken a break from making any further changes into this script.*
+> *Oasis Hub is a free script-hub that runs on some of the most common ROBLOX games. We plan on making this script-hub bigger in game support in the near future, so join our community server below!.*
 
 # Game Support
 
@@ -13,7 +13,7 @@
 
 > *When it comes to developing a script-hub, usually there are more than 1 developer, this script-hub has 3 developers.*
 
-- Founder: `viBer#4919`
+- Founder: `Grant1ed#4919`
 - Lead Developer: `Ducky#3566`
 - Developer: `SickCloud#0991`
 
