@@ -4,7 +4,6 @@
 
 # Game Support
 
-- Criminality (Cracked Script, not apart of hub)
 - Da Hood
 - Ninja Legends
 - Prison Life
