@@ -4,7 +4,7 @@
 
 # Game Support
 
-- Da Hood (Outdated)
+- Da Hood (**Outdated**)
 - Ninja Legends
 - Prison Life
 - Guesty
