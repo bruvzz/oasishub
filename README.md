@@ -10,6 +10,8 @@
 - [Guesty](https://www.roblox.com/games/4842364293/Guesty-NEW-CHAPTER)
 - [Tower of Hell](https://www.roblox.com/games/1962086868/Tower-of-Hell)
 - [DOORS](https://www.roblox.com/games/6516141723/DOORS)
+- [Server Simulator](https://www.roblox.com/games/12692459668/Server-Simulator)
+- [Color or Die](https://www.roblox.com/games/12931609417/Color-or-Die)
 
 # Credentials
 
