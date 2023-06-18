@@ -12,6 +12,7 @@
 - [DOORS](https://www.roblox.com/games/6516141723/DOORS)
 - [Server Simulator](https://www.roblox.com/games/12692459668/Server-Simulator)
 - [Color or Die](https://www.roblox.com/games/12931609417/Color-or-Die)
+- [Murderer VS Sheriffs Duels](https://www.roblox.com/games/12355337193/Murderers-VS-Sheriffs-Duels)
 
 # Credentials
 
