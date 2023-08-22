@@ -14,6 +14,7 @@
 - [Color or Die](https://www.roblox.com/games/12931609417/Color-or-Die)
 - [Murderer VS Sheriffs Duels](https://www.roblox.com/games/12355337193/Murderers-VS-Sheriffs-Duels)
 - [Super League Soccer](https://www.roblox.com/games/12177325772/NEW-Super-League-Soccer#ropro-quick-play)
+- [Altitorture](https://www.roblox.com/games/14086581572/Altitorture-2-Player-Obby)
 
 # Credentials
 
