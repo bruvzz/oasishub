@@ -29,4 +29,4 @@
 
 *"I know this isn't the best developed script-hub, but this was my first ever script-hub that I developed mainly on my own."* 
 
-> Made with ❤️ by `Ducky#3566`
+> Made with ❤️ by `bruvzz`
