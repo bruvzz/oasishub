@@ -17,6 +17,7 @@
 - [Altitorture](https://www.roblox.com/games/14086581572/Altitorture-2-Player-Obby)
 - [Gunfight Arena](https://www.roblox.com/games/14518422161/Gunfight-Arena)
 - [Flee the Facility](https://www.roblox.com/games/893973440/Flee-the-Facility)
+- [RIVALS](https://www.roblox.com/games/17625359962/UPDATE-RIVALS)
 
 # Credentials
 
