@@ -28,7 +28,7 @@
 - Developer: `sickcloudreborn`
 
   # Script
-  ```lua
+  ```ts
   loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/bruvzz/oasishub/main/script"))()
   ```
 
