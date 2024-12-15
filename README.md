@@ -27,10 +27,10 @@
 - Co-Founder/Lead Developer: `bruvzz`
 - Developer: `sickcloudreborn`
 
-  # Script
-  ```ts
-  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/bruvzz/oasishub/main/script"))()
-  ```
+# Script
+```ts
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/bruvzz/oasishub/main/script"))()
+```
 
 > Need assistance, or want the script-hub directly? Our [support server](https://discord.gg/t2wWA3hph3) is just a Community Discord Server, where you can get updates on the script-hub, other scripts, giveaways, and more! You can get the [script](https://github.com/bruvzz/oasishub/blob/main/script) directly here.
 
