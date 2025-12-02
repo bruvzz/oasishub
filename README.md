@@ -1,4 +1,4 @@
-# 🌴 Oasis Hub
+# 🌴 Oasis Hub (Discontinued)
 
 <div align="center">
 
@@ -9,8 +9,8 @@
 
 </div>
 
-> **Oasis Hub** is a free Roblox script hub supporting some of the most popular games.  
-> We’re always working to expand game support — join our [community server](https://discord.gg/t2wWA3hph3) to stay updated!
+> **Oasis Hub** was a free Roblox script hub supporting some of the most popular games.  
+> We always worked to expand game support — Join our [community server](https://discord.gg/t2wWA3hph3) to stay updated!
 
 ---
 
